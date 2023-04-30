@@ -39,6 +39,9 @@
           <named-connection caption='companies_forbes_nyse' name='textscan.08ezvil0oebeul18yrv3w0c5s9xz'>
             <connection class='textscan' directory='D:/Studies/MSIM/Datawarehousing and Business Intelligence/Forbes-NYSE-Company-Analysis---DWBI-Project/data' filename='companies_forbes_nyse.csv' password='' server='' />
           </named-connection>
+          <named-connection caption='securities' name='textscan.15ealdo1lwlzqz1ggio8u1w1iih4'>
+            <connection class='textscan' directory='D:/Studies/MSIM/Datawarehousing and Business Intelligence/Forbes-NYSE-Company-Analysis---DWBI-Project/data' filename='securities.csv' password='' server='' />
+          </named-connection>
         </named-connections>
         <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.08ezvil0oebeul18yrv3w0c5s9xz' name='companies_forbes_nyse.csv' table='[companies_forbes_nyse#csv]' type='table'>
           <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
@@ -80,8 +83,28 @@
               <column datatype='string' name='ticker_symbol' ordinal='7' />
             </columns>
           </relation>
+          <relation connection='textscan.15ealdo1lwlzqz1ggio8u1w1iih4' name='securities.csv' table='[securities#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Ticker symbol' ordinal='0' />
+              <column datatype='string' name='Security' ordinal='1' />
+              <column datatype='string' name='SEC filings' ordinal='2' />
+              <column datatype='string' name='GICS Sector' ordinal='3' />
+              <column datatype='string' name='GICS Sub Industry' ordinal='4' />
+              <column datatype='string' name='Address of Headquarters' ordinal='5' />
+              <column datatype='date' name='Date first added' ordinal='6' />
+              <column datatype='integer' name='CIK' ordinal='7' />
+            </columns>
+          </relation>
         </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
         <cols>
+          <map key='[Address of Headquarters]' value='[securities.csv].[Address of Headquarters]' />
+          <map key='[CIK]' value='[securities.csv].[CIK]' />
+          <map key='[Date first added]' value='[securities.csv].[Date first added]' />
+          <map key='[GICS Sector]' value='[securities.csv].[GICS Sector]' />
+          <map key='[GICS Sub Industry]' value='[securities.csv].[GICS Sub Industry]' />
+          <map key='[SEC filings]' value='[securities.csv].[SEC filings]' />
+          <map key='[Security]' value='[securities.csv].[Security]' />
+          <map key='[Ticker symbol]' value='[securities.csv].[Ticker symbol]' />
           <map key='[adjusted_close]' value='[nyse_prices.csv].[adjusted_close]' />
           <map key='[assets]' value='[forbes.csv].[assets]' />
           <map key='[close]' value='[nyse_prices.csv].[close]' />
@@ -140,6 +163,22 @@
             <remote-name />
             <remote-type>0</remote-type>
             <parent-name>[nyse_prices.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[securities.csv]</parent-name>
             <remote-alias />
             <aggregation>Count</aggregation>
             <contains-null>true</contains-null>
@@ -413,6 +452,120 @@
             <collation flag='0' name='LEN_RUS' />
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[nyse_prices.csv_93BD94719FE644D69DCC94C79F15F41B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Ticker symbol</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Ticker symbol]</local-name>
+            <parent-name>[securities.csv]</parent-name>
+            <remote-alias>Ticker symbol</remote-alias>
+            <ordinal>20</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[securities.csv_0E4E70F15BEE4E8EA3DA740E8F9199F2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Security</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Security]</local-name>
+            <parent-name>[securities.csv]</parent-name>
+            <remote-alias>Security</remote-alias>
+            <ordinal>21</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[securities.csv_0E4E70F15BEE4E8EA3DA740E8F9199F2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>SEC filings</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[SEC filings]</local-name>
+            <parent-name>[securities.csv]</parent-name>
+            <remote-alias>SEC filings</remote-alias>
+            <ordinal>22</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[securities.csv_0E4E70F15BEE4E8EA3DA740E8F9199F2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>GICS Sector</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[GICS Sector]</local-name>
+            <parent-name>[securities.csv]</parent-name>
+            <remote-alias>GICS Sector</remote-alias>
+            <ordinal>23</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[securities.csv_0E4E70F15BEE4E8EA3DA740E8F9199F2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>GICS Sub Industry</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[GICS Sub Industry]</local-name>
+            <parent-name>[securities.csv]</parent-name>
+            <remote-alias>GICS Sub Industry</remote-alias>
+            <ordinal>24</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[securities.csv_0E4E70F15BEE4E8EA3DA740E8F9199F2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Address of Headquarters</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Address of Headquarters]</local-name>
+            <parent-name>[securities.csv]</parent-name>
+            <remote-alias>Address of Headquarters</remote-alias>
+            <ordinal>25</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[securities.csv_0E4E70F15BEE4E8EA3DA740E8F9199F2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Date first added</remote-name>
+            <remote-type>133</remote-type>
+            <local-name>[Date first added]</local-name>
+            <parent-name>[securities.csv]</parent-name>
+            <remote-alias>Date first added</remote-alias>
+            <ordinal>26</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[securities.csv_0E4E70F15BEE4E8EA3DA740E8F9199F2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>CIK</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[CIK]</local-name>
+            <parent-name>[securities.csv]</parent-name>
+            <remote-alias>CIK</remote-alias>
+            <ordinal>27</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[securities.csv_0E4E70F15BEE4E8EA3DA740E8F9199F2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
         </metadata-records>
       </connection>
       <aliases enabled='yes' />
@@ -430,9 +583,11 @@
       <column caption='High Low Difference' datatype='real' name='[Calculation_2229563311722622979]' role='measure' type='quantitative'>
         <calculation class='tableau' formula='SUM([low])-SUM([high])' />
       </column>
+      <column caption='Security1' datatype='string' name='[Security]' role='dimension' type='nominal' />
       <_.fcp.ObjectModelTableType.true...column caption='companies_forbes_nyse.csv' datatype='table' name='[__tableau_internal_object_id__].[companies_forbes_nyse.csv_27B45410C6724F2CB71C95F28D52D472]' role='measure' type='quantitative' />
       <_.fcp.ObjectModelTableType.true...column caption='forbes.csv' datatype='table' name='[__tableau_internal_object_id__].[forbes.csv_85FA854E22C24B369AB62BD39AF16032]' role='measure' type='quantitative' />
       <_.fcp.ObjectModelTableType.true...column caption='nyse_prices.csv' datatype='table' name='[__tableau_internal_object_id__].[nyse_prices.csv_93BD94719FE644D69DCC94C79F15F41B]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='securities.csv' datatype='table' name='[__tableau_internal_object_id__].[securities.csv_0E4E70F15BEE4E8EA3DA740E8F9199F2]' role='measure' type='quantitative' />
       <column caption='Adjusted Close' datatype='real' name='[adjusted_close]' role='measure' type='quantitative' />
       <column caption='Assets' datatype='real' name='[assets]' role='measure' type='quantitative' />
       <column caption='Close' datatype='real' name='[close]' role='measure' type='quantitative' />
@@ -574,6 +729,22 @@
               </relation>
             </properties>
           </object>
+          <object caption='securities.csv' id='securities.csv_0E4E70F15BEE4E8EA3DA740E8F9199F2'>
+            <properties context=''>
+              <relation connection='textscan.15ealdo1lwlzqz1ggio8u1w1iih4' name='securities.csv' table='[securities#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='string' name='Ticker symbol' ordinal='0' />
+                  <column datatype='string' name='Security' ordinal='1' />
+                  <column datatype='string' name='SEC filings' ordinal='2' />
+                  <column datatype='string' name='GICS Sector' ordinal='3' />
+                  <column datatype='string' name='GICS Sub Industry' ordinal='4' />
+                  <column datatype='string' name='Address of Headquarters' ordinal='5' />
+                  <column datatype='date' name='Date first added' ordinal='6' />
+                  <column datatype='integer' name='CIK' ordinal='7' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
         </objects>
         <relationships>
           <relationship>
@@ -591,6 +762,14 @@
             </expression>
             <first-end-point object-id='companies_forbes_nyse.csv_27B45410C6724F2CB71C95F28D52D472' />
             <second-end-point object-id='nyse_prices.csv_93BD94719FE644D69DCC94C79F15F41B' />
+          </relationship>
+          <relationship>
+            <expression op='='>
+              <expression op='[ticker_symbol]' />
+              <expression op='[Ticker symbol]' />
+            </expression>
+            <first-end-point object-id='companies_forbes_nyse.csv_27B45410C6724F2CB71C95F28D52D472' />
+            <second-end-point object-id='securities.csv_0E4E70F15BEE4E8EA3DA740E8F9199F2' />
           </relationship>
         </relationships>
       </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
@@ -889,8 +1068,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1200' minheight='1200' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='35' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='34' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='37' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='36' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone h='6125' id='8' mode='dropdown' name='Sheet 1' param='[federated.0mzw7530hl4g5n1bd4f901eelx9t].[none:name (forbes.csv):nk]' type-v2='filter' w='16800' x='19900' y='5625'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
