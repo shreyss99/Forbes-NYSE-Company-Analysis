@@ -5999,63 +5999,63 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 1998,Incyte,United States,1.882,0.109,2.646,15.847,2019,incyte
 1999,Fuyo General Lease,Japan,5.574,0.209,23.179,1.53,2019,fuyo general lease
 2000,JC Penney,United States,12.019,-0.255,7.873,0.402,2019,jc penney
-1,ICBC,China,177.2,45.3,4.0,242.3,2020,icbc
-2,China Construction Bank,China,162.1,38.9,3.0,203.8,2020,china construction bank
-3,JPMorgan Chase,United States,142.9,30.0,3.0,291.7,2020,jpmorgan chase
+1,ICBC,China,177.2,45.3,4322.5,242.3,2020,icbc
+2,China Construction Bank,China,162.1,38.9,3822.0,203.8,2020,china construction bank
+3,JPMorgan Chase,United States,142.9,30.0,3139.4,291.7,2020,jpmorgan chase
 4,Berkshire Hathaway,United States,254.6,81.4,817.7,455.4,2020,berkshire hathaway
-5,Agricultural Bank of China,China,148.7,30.9,3.0,147.2,2020,agricultural bank of china
-6,Saudi Arabian Oil Company (Saudi Aramco),Saudi Arabia,329.8,88.2,398.3,1.0,2020,saudi arabian oil company (saudi aramco)
-7,Ping An Insurance Group,China,155.0,18.8,1.0,187.2,2020,ping an insurance group
-8,Bank of America,United States,112.1,24.1,2.0,208.6,2020,bank of america
-9,Apple,United States,267.7,57.2,320.4,1.0,2020,apple
-10,Bank of China,China,135.4,27.2,3.0,112.8,2020,bank of china
+5,Agricultural Bank of China,China,148.7,30.9,3697.5,147.2,2020,agricultural bank of china
+6,Saudi Arabian Oil Company (Saudi Aramco),Saudi Arabia,329.8,88.2,398.3,1684.8,2020,saudi arabian oil company (saudi aramco)
+7,Ping An Insurance Group,China,155.0,18.8,1218.6,187.2,2020,ping an insurance group
+8,Bank of America,United States,112.1,24.1,2620.0,208.6,2020,bank of america
+9,Apple,United States,267.7,57.2,320.4,1285.5,2020,apple
+10,Bank of China,China,135.4,27.2,3387.0,112.8,2020,bank of china
 11,AT&T,United States,179.2,14.4,545.4,218.6,2020,at&t
 12,Toyota Motor,Japan,280.5,22.7,495.1,173.3,2020,toyota motor
 13,Alphabet,United States,166.3,34.5,273.4,919.3,2020,alphabet
 14,ExxonMobil,United States,256.0,14.3,362.6,196.6,2020,exxonmobil
-15,Microsoft,United States,138.6,46.3,285.4,1.0,2020,microsoft
+15,Microsoft,United States,138.6,46.3,285.4,1359.0,2020,microsoft
 16,Samsung Electronics,South Korea,197.6,18.4,304.9,278.7,2020,samsung electronics
-17,Wells Fargo,United States,98.9,14.3,1.0,118.8,2020,wells fargo
-18,Citigroup,United States,104.4,17.1,2.0,101.1,2020,citigroup
+17,Wells Fargo,United States,98.9,14.3,1981.3,118.8,2020,wells fargo
+18,Citigroup,United States,104.4,17.1,2219.8,101.1,2020,citigroup
 19,Walmart,United States,524.0,14.9,236.5,344.4,2020,walmart
 20,Verizon Communications,United States,131.4,18.4,294.5,237.7,2020,verizon communications
 21,Royal Dutch Shell,Netherlands,311.6,9.9,394.0,126.5,2020,royal dutch shell
-22,Amazon,United States,296.3,10.6,221.2,1.0,2020,amazon
+22,Amazon,United States,296.3,10.6,221.2,1233.4,2020,amazon
 23,Volkswagen Group,Germany,275.2,12.0,538.9,70.4,2020,volkswagen group
 24,UnitedHealth Group,United States,246.3,13.8,189.1,277.1,2020,unitedhealth group
-25,Allianz,Germany,122.4,8.9,1.0,77.1,2020,allianz
-26,China Merchants Bank,China,58.4,13.7,1.0,120.9,2020,china merchants bank
+25,Allianz,Germany,122.4,8.9,1183.5,77.1,2020,allianz
+26,China Merchants Bank,China,58.4,13.7,1094.9,120.9,2020,china merchants bank
 27,Comcast,United States,108.7,11.7,262.4,171.7,2020,comcast
 28,China Mobile,Hong Kong,108.1,15.5,233.9,164.9,2020,china mobile
 29,Total,France,176.2,11.3,273.3,93.1,2020,total
-30,Postal Savings Bank Of China (PSBC),China,64.4,9.0,1.0,92.0,2020,postal savings bank of china (psbc)
+30,Postal Savings Bank Of China (PSBC),China,64.4,9.0,1522.4,92.0,2020,postal savings bank of china (psbc)
 31,Alibaba Group,China,70.6,24.7,189.4,545.4,2020,alibaba group
 32,Gazprom,Russia,122.6,22.7,331.7,60.8,2020,gazprom
 33,PetroChina,China,364.1,6.6,392.3,65.9,2020,petrochina
 34,Johnson & Johnson,United States,82.8,17.2,155.0,395.3,2020,johnson & johnson
-35,RBC,Canada,50.9,10.0,1.0,87.7,2020,rbc
+35,RBC,Canada,50.9,10.0,1116.3,87.7,2020,rbc
 36,Walt Disney,United States,74.8,10.4,200.9,195.3,2020,walt disney
 37,China Life Insurance,China,103.7,8.5,536.2,60.3,2020,china life insurance
 38,Intel,United States,75.7,22.7,147.7,254.0,2020,intel
 39,Facebook,United States,73.4,21.0,138.4,583.7,2020,facebook
 40,CVS Health,United States,256.8,6.6,224.3,80.4,2020,cvs health
 41,NestlÃ©,Switzerland,93.1,12.7,132.1,304.1,2020,nestlã©
-42,BNP Paribas,France,128.0,8.7,2.0,39.2,2020,bnp paribas
+42,BNP Paribas,France,128.0,8.7,2429.9,39.2,2020,bnp paribas
 43,Nippon Telegraph & Tel,Japan,109.6,7.9,211.1,83.0,2020,nippon telegraph & tel
-44,HSBC Holdings,United Kingdom,67.2,3.8,2.0,105.3,2020,hsbc holdings
-45,Bank of Communications,China,66.6,11.2,1.0,47.1,2020,bank of communications
-46,TD Bank Group,Canada,44.8,9.3,1.0,75.8,2020,td bank group
-47,Goldman Sachs Group,United States,53.9,7.4,1.0,63.4,2020,goldman sachs group
+44,HSBC Holdings,United Kingdom,67.2,3.8,2917.8,105.3,2020,hsbc holdings
+45,Bank of Communications,China,66.6,11.2,1422.1,47.1,2020,bank of communications
+46,TD Bank Group,Canada,44.8,9.3,1102.0,75.8,2020,td bank group
+47,Goldman Sachs Group,United States,53.9,7.4,1090.0,63.4,2020,goldman sachs group
 48,Morgan Stanley,United States,53.0,8.3,896.8,62.1,2020,morgan stanley
 49,Pfizer,United States,50.7,15.8,167.5,212.8,2020,pfizer
 50,Tencent Holdings,China,54.6,13.5,137.0,509.7,2020,tencent holdings
 51,IBM,United States,76.5,9.0,153.4,111.5,2020,ibm
-52,Mitsubishi UFJ Financial,Japan,60.1,5.4,2.0,51.8,2020,mitsubishi ufj financial
+52,Mitsubishi UFJ Financial,Japan,60.1,5.4,2893.0,51.8,2020,mitsubishi ufj financial
 53,General Electric,United States,99.9,6.3,262.0,59.5,2020,general electric
 54,Rosneft,Russia,126.9,10.9,208.5,48.1,2020,rosneft
-55,Santander,Spain,89.2,7.3,1.0,37.1,2020,santander
+55,Santander,Spain,89.2,7.3,1709.2,37.1,2020,santander
 56,Anheuser-Busch InBev,Belgium,52.3,9.1,238.3,89.9,2020,anheuser-busch inbev
-57,Industrial Bank,China,50.2,9.2,1.0,49.0,2020,industrial bank
+57,Industrial Bank,China,50.2,9.2,1045.0,49.0,2020,industrial bank
 58,Reliance Industries,India,84.8,6.2,147.2,123.8,2020,reliance industries
 59,Sony,Japan,79.2,6.0,208.3,78.7,2020,sony
 60,Sinopec,China,369.2,3.3,254.8,76.6,2020,sinopec
@@ -6063,23 +6063,23 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 62,Siemens,Germany,97.4,5.9,171.0,75.4,2020,siemens
 63,Cigna,United States,154.5,4.9,157.0,72.8,2020,cigna
 64,AXA Group,France,150.0,4.0,850.8,42.3,2020,axa group
-65,Shanghai Pudong Development,China,50.0,8.6,1.0,44.2,2020,shanghai pudong development
+65,Shanghai Pudong Development,China,50.0,8.6,1029.3,44.2,2020,shanghai pudong development
 66,AIA Group,Hong Kong,40.9,6.6,280.3,111.8,2020,aia group
 67,Softbank,Japan,87.4,2.9,362.6,89.7,2020,softbank
 68,Novartis,Switzerland,48.6,12.2,123.1,193.0,2020,novartis
 69,Deutsche Telekom,Germany,90.1,4.3,207.1,69.2,2020,deutsche telekom
 70,Petrobras,Brazil,78.9,10.2,230.2,43.5,2020,petrobras
 71,Procter & Gamble,United States,70.3,5.0,118.6,291.8,2020,procter & gamble
-72,Japan Post Holdings,Japan,112.3,4.7,2.0,32.7,2020,japan post holdings
+72,Japan Post Holdings,Japan,112.3,4.7,2680.2,32.7,2020,japan post holdings
 73,LVMH MoÃ«t Hennessy Louis Vuitton,France,60.1,8.0,108.3,194.3,2020,lvmh moã«t hennessy louis vuitton
 74,Roche Holding,Switzerland,61.9,13.6,85.8,297.4,2020,roche holding
 75,BMW Group,Germany,116.6,5.5,271.3,38.9,2020,bmw group
 76,Zurich Insurance Group,Switzerland,71.8,4.1,381.9,47.4,2020,zurich insurance group
-77,CITIC,Hong Kong,72.3,6.9,1.0,30.3,2020,citic
+77,CITIC,Hong Kong,72.3,6.9,1063.9,30.3,2020,citic
 78,ItaÃº Unibanco Holding,Brazil,52.0,6.9,408.8,41.0,2020,itaãº unibanco holding
 79,China State Construction Engineering,China,203.0,6.1,292.3,30.7,2020,china state construction engineering
 80,MetLife,United States,69.0,5.9,746.3,32.8,2020,metlife
-81,Sumitomo Mitsui Financial,Japan,48.4,6.4,1.0,36.4,2020,sumitomo mitsui financial
+81,Sumitomo Mitsui Financial,Japan,48.4,6.4,1954.8,36.4,2020,sumitomo mitsui financial
 82,Cisco Systems,United States,51.6,11.1,90.4,179.7,2020,cisco systems
 83,Honda Motor,Japan,142.4,4.3,188.5,42.6,2020,honda motor
 84,Commonwealth Bank,Australia,27.3,7.0,688.8,72.6,2020,commonwealth bank
@@ -6107,16 +6107,16 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 106,Home Depot,United States,110.2,11.2,51.2,236.1,2020,home depot
 107,BASF,Germany,66.5,8.8,101.3,47.0,2020,basf
 108,Taiwan Semiconductor,Taiwan,37.8,13.0,77.5,265.5,2020,taiwan semiconductor
-109,UBS,Switzerland,34.2,4.8,1.0,38.4,2020,ubs
+109,UBS,Switzerland,34.2,4.8,1098.1,38.4,2020,ubs
 110,Unilever,Netherlands,58.2,6.3,72.7,130.6,2020,unilever
 111,Country Garden Holdings,China,70.1,5.7,273.8,27.8,2020,country garden holdings
 112,EDF,France,79.8,5.1,340.4,24.7,2020,edf
 113,China Citic Bank,China,49.3,7.1,991.4,23.9,2020,china citic bank
 114,Rio Tinto,United Kingdom,43.2,8.0,87.8,75.5,2020,rio tinto
-115,Lloyds Banking Group,United Kingdom,64.3,3.1,1.0,28.6,2020,lloyds banking group
+115,Lloyds Banking Group,United Kingdom,64.3,3.1,1104.7,28.6,2020,lloyds banking group
 116,Prudential Financial,United States,64.9,4.1,896.6,24.7,2020,prudential financial
 117,Sanofi,France,40.4,3.3,126.5,122.5,2020,sanofi
-118,Credit Agricole,France,74.3,4.8,1.0,21.9,2020,credit agricole
+118,Credit Agricole,France,74.3,4.8,1984.2,21.9,2020,credit agricole
 119,AbbVie,United States,33.3,7.8,89.1,121.4,2020,abbvie
 120,Iberdrola,Spain,39.7,4.1,136.6,62.5,2020,iberdrola
 121,Hon Hai Precision,Taiwan,172.8,3.7,110.8,35.9,2020,hon hai precision
@@ -6179,7 +6179,7 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 178,Linde,United Kingdom,28.2,2.3,86.6,96.6,2020,linde
 179,Canadian Imperial Bank,Canada,21.6,3.9,508.2,26.4,2020,canadian imperial bank
 180,NextEra Energy,United States,17.2,3.5,120.6,113.1,2020,nextera energy
-181,Barclays,United Kingdom,28.8,2.6,1.0,23.1,2020,barclays
+181,Barclays,United Kingdom,28.8,2.6,1790.9,23.1,2020,barclays
 182,Deere & Company,United States,38.9,3.3,71.8,45.5,2020,deere & company
 183,Union Pacific,United States,21.6,6.0,62.2,108.4,2020,union pacific
 184,Thermo Fisher Scientific,United States,25.6,3.7,58.7,132.2,2020,thermo fisher scientific
@@ -6192,7 +6192,7 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 191,NAB - National Australia Bank,Australia,21.4,2.3,567.8,32.0,2020,nab - national australia bank
 192,Broadcom,United States,22.7,2.6,81.0,108.6,2020,broadcom
 193,Legal & General Group,United Kingdom,85.2,2.3,735.0,15.3,2020,legal & general group
-194,ING Group,Netherlands,20.5,5.4,1.0,21.4,2020,ing group
+194,ING Group,Netherlands,20.5,5.4,1001.0,21.4,2020,ing group
 195,3M,United States,32.3,5.0,46.2,87.4,2020,3m
 196,Target,United States,78.1,3.3,42.8,54.9,2020,target
 197,Marathon Petroleum,United States,123.4,2.6,98.6,20.9,2020,marathon petroleum
@@ -6226,7 +6226,7 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 225,HCA Healthcare,United States,51.7,3.0,45.4,37.2,2020,hca healthcare
 226,Danaher,United States,19.9,2.6,62.1,113.9,2020,danaher
 227,Schneider Electric,France,30.4,2.7,50.5,50.4,2020,schneider electric
-228,SociÃ©tÃ© GÃ©nÃ©rale,France,47.8,2.8,1.0,12.4,2020,sociã©tã© gã©nã©rale
+228,SociÃ©tÃ© GÃ©nÃ©rale,France,47.8,2.8,1522.5,12.4,2020,sociã©tã© gã©nã©rale
 229,Midea Group,China,39.9,3.4,40.0,52.9,2020,midea group
 230,Dai-ichi Life Insurance,Japan,62.6,1.8,560.8,14.4,2020,dai-ichi life insurance
 231,ENGIE,France,67.2,1.1,179.4,26.2,2020,engie
@@ -6240,7 +6240,7 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 239,Air Liquide,France,24.5,2.5,49.0,60.0,2020,air liquide
 240,Fresenius,Germany,39.6,2.1,75.2,23.8,2020,fresenius
 241,Northrop Grumman,United States,34.3,2.3,43.2,55.1,2020,northrop grumman
-242,Mizuho Financial,Japan,35.9,0.831,1.0,29.8,2020,mizuho financial
+242,Mizuho Financial,Japan,35.9,0.831,1874.9,29.8,2020,mizuho financial
 243,Sun Life Financial,Canada,24.6,2.0,226.1,20.1,2020,sun life financial
 244,Inditex,Spain,31.6,4.1,31.5,79.3,2020,inditex
 245,Nike,United States,41.3,4.3,26.2,135.6,2020,nike
@@ -6326,7 +6326,7 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 325,Couche Tard,Canada,57.5,2.1,24.8,31.1,2020,couche tard
 326,Daimler,Germany,189.2,0.418,326.6,37.0,2020,daimler
 327,Bridgestone,Japan,32.3,2.7,36.3,20.7,2020,bridgestone
-328,Fannie Mae,United States,122.8,14.2,3.0,2.0,2020,fannie mae
+328,Fannie Mae,United States,122.8,14.2,3503.3,2.0,2020,fannie mae
 329,Tyson Foods,United States,43.1,2.0,33.8,22.3,2020,tyson foods
 330,New China Life Insurance,China,25.2,2.1,125.8,10.8,2020,new china life insurance
 331,Saint-Gobain,France,47.7,1.6,56.1,14.4,2020,saint-gobain
@@ -6338,7 +6338,7 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 337,EOG Resources,United States,17.6,2.7,37.1,27.7,2020,eog resources
 338,Sempra Energy,United States,10.8,2.2,65.7,36.2,2020,sempra energy
 339,Eaton,Ireland,20.9,2.1,30.8,34.4,2020,eaton
-340,Freddie Mac,United States,79.3,7.2,2.0,1.1,2020,freddie mac
+340,Freddie Mac,United States,79.3,7.2,2203.6,1.1,2020,freddie mac
 341,Heineken,Netherlands,26.8,1.2,52.2,22.4,2020,heineken
 342,Kweichow Moutai,China,11.3,6.2,25.6,225.5,2020,kweichow moutai
 343,CK Asset Holdings,Hong Kong,10.9,3.7,65.2,23.3,2020,ck asset holdings
@@ -6540,7 +6540,7 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 539,Tatneft,Russia,14.8,3.0,19.9,16.7,2020,tatneft
 540,Tenaga Nasional,Malaysia,12.3,1.1,43.7,16.2,2020,tenaga nasional
 541,SK Holdings,South Korea,85.1,0.615,114.2,7.3,2020,sk holdings
-542,Deutsche Bank,Germany,37.7,-6.1,1.0,15.3,2020,deutsche bank
+542,Deutsche Bank,Germany,37.7,-6.1,1636.2,15.3,2020,deutsche bank
 543,M&T Bank,United States,6.8,1.7,124.6,14.6,2020,m&t bank
 544,Standard Bank Group,South Africa,9.3,1.8,162.7,8.9,2020,standard bank group
 545,China Taiping Insurance,Hong Kong,31.8,1.1,116.3,6.1,2020,china taiping insurance
@@ -6668,7 +6668,7 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 667,CNPC Capital,China,5.4,1.1,134.0,12.9,2020,cnpc capital
 668,Simon Property Group,United States,5.7,2.1,31.2,20.4,2020,simon property group
 669,Occidental Petroleum,United States,18.5,-0.672,113.0,14.9,2020,occidental petroleum
-670,London Stock Exchange,United Kingdom,3.0,0.532,1.0,33.0,2020,london stock exchange
+670,London Stock Exchange,United Kingdom,3.0,0.532,1064.6,33.0,2020,london stock exchange
 671,Eiffage,France,20.9,0.812,36.9,8.0,2020,eiffage
 672,TE Connectivity,Switzerland,13.1,0.699,19.4,24.5,2020,te connectivity
 673,Sodexo,France,25.2,0.756,21.5,11.6,2020,sodexo
@@ -7999,48 +7999,48 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 1998,Heico,United States,2.1,0.371,3.1,11.8,2020,heico
 1999,W.P. Carey,United States,1.2,0.305,14.1,11.3,2020,w.p. carey
 2000,Zhejiang Century Huatong Group,China,2.2,0.365,4.7,12.1,2020,zhejiang century huatong group
-1,ICBC,China,190.5,45.8,4.0,249.5,2021,icbc
-2,JPMorgan Chase,United States,136.2,40.4,3.0,464.8,2021,jpmorgan chase
+1,ICBC,China,190.5,45.8,4914.7,249.5,2021,icbc
+2,JPMorgan Chase,United States,136.2,40.4,3689.3,464.8,2021,jpmorgan chase
 3,Berkshire Hathaway,United States,245.5,42.5,873.7,624.4,2021,berkshire hathaway
-4,China Construction Bank,China,173.5,39.3,4.0,210.4,2021,china construction bank
-5,Saudi Arabian Oil Company (Saudi Aramco),Saudi Arabia,229.7,49.3,510.3,1.0,2021,saudi arabian oil company (saudi aramco)
-6,Apple,United States,294.0,63.9,354.1,2.0,2021,apple
-6,Bank of America,United States,98.8,17.9,2.0,336.3,2021,bank of america
-6,Ping An Insurance Group,China,169.1,20.8,1.0,211.2,2021,ping an insurance group
-9,Agricultural Bank of China,China,153.9,31.3,4.0,140.1,2021,agricultural bank of china
-10,Amazon,United States,386.1,21.3,321.2,1.0,2021,amazon
+4,China Construction Bank,China,173.5,39.3,4301.7,210.4,2021,china construction bank
+5,Saudi Arabian Oil Company (Saudi Aramco),Saudi Arabia,229.7,49.3,510.3,1897.2,2021,saudi arabian oil company (saudi aramco)
+6,Apple,United States,294.0,63.9,354.1,2252.3,2021,apple
+6,Bank of America,United States,98.8,17.9,2832.2,336.3,2021,bank of america
+6,Ping An Insurance Group,China,169.1,20.8,1453.8,211.2,2021,ping an insurance group
+9,Agricultural Bank of China,China,153.9,31.3,4159.9,140.1,2021,agricultural bank of china
+10,Amazon,United States,386.1,21.3,321.2,1711.8,2021,amazon
 11,Samsung Electronics,South Korea,200.7,22.1,348.2,510.5,2021,samsung electronics
 12,Toyota Motor,Japan,249.4,14.3,561.9,219.2,2021,toyota motor
-13,Alphabet,United States,182.4,40.3,319.6,1.0,2021,alphabet
-14,Bank of China,China,134.0,27.9,3.0,116.7,2021,bank of china
-15,Microsoft,United States,153.3,51.3,304.1,1.0,2021,microsoft
-,Citigroup,United States,84.4,17.1,2.0,151.2,2021,citigroup
+13,Alphabet,United States,182.4,40.3,319.6,1538.9,2021,alphabet
+14,Bank of China,China,134.0,27.9,3731.4,116.7,2021,bank of china
+15,Microsoft,United States,153.3,51.3,304.1,1966.6,2021,microsoft
+,Citigroup,United States,84.4,17.1,2314.3,151.2,2021,citigroup
 16,Volkswagen Group,Germany,254.1,9.5,646.4,147.2,2021,volkswagen group
 17,Walmart,United States,559.2,13.5,252.5,396.1,2021,walmart
-18,Wells Fargo,United States,85.9,7.4,1.0,181.5,2021,wells fargo
+18,Wells Fargo,United States,85.9,7.4,1959.5,181.5,2021,wells fargo
 19,Verizon Communications,United States,128.3,17.8,316.5,241.3,2021,verizon communications
 20,UnitedHealth Group,United States,262.9,16.9,205.2,369.6,2021,unitedhealth group
-21,China Merchants Bank,China,60.4,14.1,1.0,192.8,2021,china merchants bank
+21,China Merchants Bank,China,60.4,14.1,1278.5,192.8,2021,china merchants bank
 22,Alibaba Group,China,93.8,23.3,250.1,657.5,2021,alibaba group
-23,Allianz,Germany,129.9,7.8,1.0,108.0,2021,allianz
+23,Allianz,Germany,129.9,7.8,1357.5,108.0,2021,allianz
 24,Comcast,United States,103.6,10.5,273.9,252.4,2021,comcast
-25,Goldman Sachs Group,United States,61.8,15.1,1.0,116.5,2021,goldman sachs group
+25,Goldman Sachs Group,United States,61.8,15.1,1302.0,116.5,2021,goldman sachs group
 26,Softbank,Japan,70.3,14.9,366.7,163.1,2021,softbank
-27,Postal Savings Bank Of China (PSBC),China,67.2,9.3,1.0,112.4,2021,postal savings bank of china (psbc)
+27,Postal Savings Bank Of China (PSBC),China,67.2,9.3,1736.2,112.4,2021,postal savings bank of china (psbc)
 28,Tencent Holdings,China,70.0,23.3,203.9,773.8,2021,tencent holdings
-29,BNP Paribas,France,102.7,7.6,3.0,79.1,2021,bnp paribas
-30,Morgan Stanley,United States,56.7,13.4,1.0,123.9,2021,morgan stanley
+29,BNP Paribas,France,102.7,7.6,3044.8,79.1,2021,bnp paribas
+30,Morgan Stanley,United States,56.7,13.4,1158.8,123.9,2021,morgan stanley
 ,China Mobile,Hong Kong,111.3,15.6,264.2,134.9,2021,china mobile
 31,Facebook,United States,86.0,29.1,159.3,870.5,2021,facebook
 32,Johnson & Johnson,United States,82.6,14.7,174.9,427.1,2021,johnson & johnson
 33,Sony,Japan,79.9,10.1,250.7,137.3,2021,sony
 34,Intel,United States,77.9,20.9,153.1,263.7,2021,intel
 35,CVS Health,United States,268.7,7.2,238.5,99.6,2021,cvs health
-36,RBC,Canada,42.9,8.8,1.0,135.0,2021,rbc
+36,RBC,Canada,42.9,8.8,1308.2,135.0,2021,rbc
 37,Nestlé,Switzerland,89.9,13.0,140.3,333.2,2021,nestlé
-38,HSBC Holdings,United Kingdom,60.6,4.0,2.0,120.3,2021,hsbc holdings
+38,HSBC Holdings,United Kingdom,60.6,4.0,2984.2,120.3,2021,hsbc holdings
 39,Daimler,Germany,175.9,4.1,349.6,99.2,2021,daimler
-40,TD Bank Group,Canada,38.8,9.1,1.0,120.6,2021,td bank group
+40,TD Bank Group,Canada,38.8,9.1,1358.6,120.6,2021,td bank group
 41,Nippon Telegraph & Tel,Japan,110.3,8.3,231.1,96.7,2021,nippon telegraph & tel
 42,Deutsche Telekom,Germany,115.1,4.7,345.4,91.6,2021,deutsche telekom
 43,General Electric,United States,79.9,5.6,255.1,117.6,2021,general electric
@@ -8048,14 +8048,14 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 45,General Motors,United States,122.5,6.4,235.2,84.6,2021,general motors
 ,Sinopec,China,271.1,4.8,265.1,82.6,2021,sinopec
 46,China Life Insurance,China,113.8,7.3,651.9,57.3,2021,china life insurance
-47,Industrial Bank,China,53.8,9.7,1.0,66.5,2021,industrial bank
+47,Industrial Bank,China,53.8,9.7,1207.2,66.5,2021,industrial bank
 48,Sberbank,Russia,47.3,10.4,486.9,85.7,2021,sberbank
-49,Mitsubishi UFJ Financial,Japan,56.0,5.2,3.0,69.7,2021,mitsubishi ufj financial
+49,Mitsubishi UFJ Financial,Japan,56.0,5.2,3406.5,69.7,2021,mitsubishi ufj financial
 50,Cigna,United States,160.6,8.5,151.5,87.7,2021,cigna
 51,AXA Group,France,129.5,3.4,951.5,67.8,2021,axa group
 52,AIA Group,Hong Kong,42.6,5.8,321.6,153.7,2021,aia group
 53,Reliance Industries,India,61.2,5.7,166.3,164.9,2021,reliance industries
-54,Bank of Communications,China,67.6,11.1,1.0,47.9,2021,bank of communications
+54,Bank of Communications,China,67.6,11.1,1635.8,47.9,2021,bank of communications
 55,Pfizer,United States,47.6,9.6,154.2,215.2,2021,pfizer
 55,IBM,United States,73.6,5.6,156.0,119.4,2021,ibm
 57,Roche Holding,Switzerland,62.1,15.2,97.4,287.1,2021,roche holding
@@ -8066,7 +8066,7 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 61,Novartis,Switzerland,48.6,8.1,132.2,198.6,2021,novartis
 62,Taiwan Semiconductor,Taiwan,48.1,18.7,98.3,558.1,2021,taiwan semiconductor
 63,Home Depot,United States,132.1,12.9,70.6,352.8,2021,home depot
-64,Shanghai Pudong Development,China,52.3,8.5,1.0,47.4,2021,shanghai pudong development
+64,Shanghai Pudong Development,China,52.3,8.5,1215.7,47.4,2021,shanghai pudong development
 65,Siemens,Germany,58.0,4.9,148.6,139.8,2021,siemens
 66,PepsiCo,United States,71.3,7.5,91.2,199.2,2021,pepsico
 67,Oracle,United States,39.7,12.8,118.1,227.7,2021,oracle
@@ -8078,14 +8078,14 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 73,Bank of Nova Scotia,Canada,30.7,5.1,911.2,75.3,2021,bank of nova scotia
 74,Commonwealth Bank,Australia,22.4,5.7,816.2,120.7,2021,commonwealth bank
 75,BHP Group,Australia,46.1,6.9,103.2,186.1,2021,bhp group
-,UBS,Switzerland,32.2,6.5,1.0,57.3,2021,ubs
+,UBS,Switzerland,32.2,6.5,1125.8,57.3,2021,ubs
 75,British American Tobacco,United States,33.1,8.2,188.2,91.6,2021,british american tobacco
 77,Honda Motor,Japan,121.8,3.9,201.3,52.8,2021,honda motor
-78,Intesa Sanpaolo,Italy,45.8,3.7,1.0,53.3,2021,intesa sanpaolo
+78,Intesa Sanpaolo,Italy,45.8,3.7,1226.7,53.3,2021,intesa sanpaolo
 79,Merck & Co.,United States,47.8,7.1,91.6,196.0,2021,merck & co.
-79,Sumitomo Mitsui Financial,Japan,38.6,4.9,2.0,48.9,2021,sumitomo mitsui financial
+79,Sumitomo Mitsui Financial,Japan,38.6,4.9,2256.8,48.9,2021,sumitomo mitsui financial
 81,Rio Tinto,Luxembourg,44.5,9.7,97.4,135.3,2021,rio tinto
-82,Japan Post Holdings,Japan,106.6,4.2,2.0,34.8,2021,japan post holdings
+82,Japan Post Holdings,Japan,106.6,4.2,2879.0,34.8,2021,japan post holdings
 82,US Bancorp,United States,23.1,6.1,553.4,86.9,2021,us bancorp
 84,Anthem,United States,121.9,4.6,88.3,92.0,2021,anthem
 85,Charter Communications,United States,48.1,3.2,146.1,124.8,2021,charter communications
@@ -8102,7 +8102,7 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 95,JD.com,China,108.3,7.2,64.6,119.4,2021,jd.com
 96,Coca-Cola,United States,33.0,7.7,87.3,231.3,2021,coca-cola
 97,Iberdrola,Spain,37.8,4.1,149.9,86.4,2021,iberdrola
-98,CITIC,Hong Kong,71.3,7.3,1.0,29.5,2021,citic
+98,CITIC,Hong Kong,71.3,7.3,1256.3,29.5,2021,citic
 99,Prudential,United Kingdom,54.8,2.1,469.5,55.7,2021,prudential
 100,KDDI,Japan,49.3,6.2,98.4,72.1,2021,kddi
 101,Bank of Montreal,Canada,24.5,4.1,761.8,59.4,2021,bank of montreal
@@ -8115,7 +8115,7 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 108,Capital One,United States,31.6,2.7,421.6,62.4,2021,capital one
 109,PNC Financial Services,United States,17.4,8.4,474.4,75.8,2021,pnc financial services
 110,HDFC Bank,India,20.7,4.1,233.6,105.9,2021,hdfc bank
-111,Credit Agricole,France,43.5,2.6,2.0,41.0,2021,credit agricole
+111,Credit Agricole,France,43.5,2.6,2399.5,41.0,2021,credit agricole
 112,Itochu,Japan,96.6,4.1,107.8,47.6,2021,itochu
 113,FedEx,United States,78.7,3.0,82.8,76.3,2021,fedex
 114,Vodafone,United Kingdom,49.7,2.8,183.9,52.6,2021,vodafone
@@ -8126,8 +8126,8 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 117,China Pacific Insurance,China,61.2,3.6,266.6,36.3,2021,china pacific insurance
 119,Lowe's,United States,89.6,5.8,48.3,149.4,2021,lowe's
 120,BlackRock,United States,18.1,5.3,177.0,123.9,2021,blackrock
-121,China Citic Bank,China,50.4,7.1,1.0,26.5,2021,china citic bank
-122,Mizuho Financial,Japan,30.3,3.7,2.0,36.3,2021,mizuho financial
+121,China Citic Bank,China,50.4,7.1,1148.5,26.5,2021,china citic bank
+122,Mizuho Financial,Japan,30.3,3.7,2110.5,36.3,2021,mizuho financial
 123,Deutsche Post,Germany,76.2,3.4,70.5,72.1,2021,deutsche post
 124,Medtronic,Ireland,27.9,2.9,97.3,169.7,2021,medtronic
 125,Caterpillar,United States,41.7,3.0,78.3,127.3,2021,caterpillar
@@ -8141,12 +8141,12 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 132,Country Garden Holdings,China,67.3,5.1,308.2,27.2,2021,country garden holdings
 133,ANZ,Australia,20.3,2.4,747.1,63.4,2021,anz
 134,Charles Schwab,United States,13.8,4.0,563.5,116.9,2021,charles schwab
-135,Barclays,United Kingdom,27.9,2.0,1.0,44.9,2021,barclays
+135,Barclays,United Kingdom,27.9,2.0,1844.7,44.9,2021,barclays
 136,Broadcom,United States,24.7,4.0,77.0,195.5,2021,broadcom
 137,Munich Re,Germany,73.9,1.4,368.7,43.5,2021,munich re
 138,Enbridge,Canada,28.2,2.5,125.8,75.6,2021,enbridge
-139,ING Group,Netherlands,20.1,2.8,1.0,49.3,2021,ing group
-140,China Minsheng Bank,China,49.0,4.9,1.0,24.5,2021,china minsheng bank
+139,ING Group,Netherlands,20.1,2.8,1146.8,49.3,2021,ing group
+140,China Minsheng Bank,China,49.0,4.9,1062.8,24.5,2021,china minsheng bank
 141,Linde,United Kingdom,27.2,2.5,88.2,151.6,2021,linde
 141,Amgen,United States,25.2,7.3,62.9,147.2,2021,amgen
 143,Allstate,United States,44.8,5.6,117.9,36.7,2021,allstate
@@ -8175,7 +8175,7 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 164,Philip Morris International,United States,28.7,8.0,44.8,144.8,2021,philip morris international
 165,VINCI,France,50.1,1.4,111.5,61.4,2021,vinci
 165,Mondelez International,United States,26.6,3.6,67.8,82.6,2021,mondelez international
-167,Lloyds Banking Group,United Kingdom,43.4,1.1,1.0,42.5,2021,lloyds banking group
+167,Lloyds Banking Group,United Kingdom,43.4,1.1,1191.0,42.5,2021,lloyds banking group
 168,Mitsui,Japan,59.9,2.4,114.7,35.0,2021,mitsui
 169,Union Pacific,United States,19.5,5.3,63.5,148.5,2021,union pacific
 170,3M,United States,32.2,5.4,47.3,115.1,2021,3m
@@ -8296,7 +8296,7 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 278,TC Energy,Canada,9.6,3.4,78.7,46.6,2021,tc energy
 279,Bank Of Shanghai,China,14.0,2.7,358.8,18.1,2021,bank of shanghai
 280,Adobe,United States,13.7,5.6,25.0,251.0,2021,adobe
-281,Fannie Mae,United States,109.6,11.8,3.0,2.8,2021,fannie mae
+281,Fannie Mae,United States,109.6,11.8,3986.1,2.8,2021,fannie mae
 282,CNP Assurances,France,37.5,1.5,515.7,13.6,2021,cnp assurances
 283,Inditex,Spain,23.4,1.3,32.1,106.1,2021,inditex
 284,Applied Materials,United States,18.2,3.9,23.3,122.7,2021,applied materials
@@ -8308,7 +8308,7 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 290,Macquarie Group,Australia,9.8,1.5,165.4,41.8,2021,macquarie group
 ,IntercontinentalExchange,United States,7.6,2.1,126.2,67.9,2021,intercontinentalexchange
 291,Surgutneftegas,Russia,18.8,8.4,79.4,16.7,2021,surgutneftegas
-292,Deutsche Bank,Germany,35.4,0.567,1.0,25.8,2021,deutsche bank
+292,Deutsche Bank,Germany,35.4,0.567,1621.5,25.8,2021,deutsche bank
 293,AT&T,United States,171.8,-5.2,525.8,213.8,2021,at&t
 294,Tyson Foods,United States,42.8,2.0,35.5,28.2,2021,tyson foods
 295,Marsh & McLennan,United States,17.2,2.0,33.0,64.9,2021,marsh & mclennan
@@ -8316,7 +8316,7 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 297,First Abu Dhabi Bank,United Arab Emirates,7.4,2.8,250.2,43.3,2021,first abu dhabi bank
 298,Hartford Financial Services,United States,20.5,1.7,69.2,23.7,2021,hartford financial services
 299,ExxonMobil,United States,178.2,-22.4,332.8,239.9,2021,exxonmobil
-300,Freddie Mac,United States,68.7,7.3,2.0,1.5,2021,freddie mac
+300,Freddie Mac,United States,68.7,7.3,2627.4,1.5,2021,freddie mac
 301,Vivendi,France,18.3,1.6,46.6,37.3,2021,vivendi
 301,The Saudi National Bank,Saudi Arabia,6.6,3.0,159.8,65.3,2021,the saudi national bank
 303,CRH,United States,27.5,1.1,44.9,38.2,2021,crh
@@ -8359,7 +8359,7 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 338,Woolworths,Australia,46.2,0.973,30.5,41.2,2021,woolworths
 338,RWE Group,Germany,15.6,1.1,81.0,27.7,2021,rwe group
 340,Bank Of Jiangsu,China,14.9,2.1,332.7,14.0,2021,bank of jiangsu
-341,Santander,Spain,73.6,-10.0,1.0,59.6,2021,santander
+341,Santander,Spain,73.6,-10.0,1845.4,59.6,2021,santander
 341,Bank Rakyat Indonesia (BRI),Indonesia,10.0,1.3,107.6,36.5,2021,bank rakyat indonesia (bri)
 341,Fujitsu,Japan,34.0,1.6,29.4,30.3,2021,fujitsu
 344,Maybank,Malaysia,10.5,1.5,213.0,22.9,2021,maybank
@@ -8524,13 +8524,13 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 493,Cognizant,United States,16.7,1.4,16.9,42.8,2021,cognizant
 494,Vestas Wind Systems,Denmark,16.9,0.871,22.2,40.1,2021,vestas wind systems
 495,JBS,Brazil,52.4,0.892,31.5,14.8,2021,jbs
-496,Société Générale,France,41.4,-0.991,1.0,20.9,2021,société générale
+496,Société Générale,France,41.4,-0.991,1788.8,20.9,2021,société générale
 497,Ageas,Belgium,12.5,1.3,135.4,11.4,2021,ageas
 498,NEC,Japan,27.8,0.986,32.4,16.3,2021,nec
 498,Adidas,Germany,22.6,0.494,25.8,64.9,2021,adidas
 500,Novatek,Russia,9.6,0.938,27.9,58.4,2021,novatek
 501,PPG,United States,14.3,1.2,20.1,39.7,2021,ppg
-502,NatWest Group,United Kingdom,18.1,-0.477,1.0,33.4,2021,natwest group
+502,NatWest Group,United Kingdom,18.1,-0.477,1092.9,33.4,2021,natwest group
 503,Wanhua Chemical Group,China,10.5,1.5,20.5,49.8,2021,wanhua chemical group
 504,FirstRand,South Africa,7.8,0.923,132.7,20.5,2021,firstrand
 505,Aptiv,Ireland,13.1,1.8,17.5,38.1,2021,aptiv
@@ -8546,7 +8546,7 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 515,Toshiba,Japan,28.4,0.699,32.6,19.2,2021,toshiba
 ,McKesson,United States,237.6,-4.2,61.8,30.7,2021,mckesson
 516,Willis Towers Watson,United Kingdom,9.4,0.996,38.5,31.0,2021,willis towers watson
-517,UniCredit,Italy,26.6,-3.3,1.0,22.9,2021,unicredit
+517,UniCredit,Italy,26.6,-3.3,1139.7,22.9,2021,unicredit
 518,SingTel,Singapore,12.1,0.783,34.4,31.5,2021,singtel
 519,Shenzhen Overseas,China,10.7,1.8,69.8,12.6,2021,shenzhen overseas
 520,Nissan Motor,Japan,72.0,-10.1,155.3,20.7,2021,nissan motor
@@ -8609,7 +8609,7 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 574,TJX Cos,United States,32.1,0.09,30.8,84.4,2021,tjx cos
 575,Hikvision,China,9.1,1.9,13.6,81.7,2021,hikvision
 ,AmerisourceBergen,United States,194.5,-3.2,45.8,24.5,2021,amerisourcebergen
-576,London Stock Exchange,United Kingdom,3.1,0.54,1.0,49.3,2021,london stock exchange
+576,London Stock Exchange,United Kingdom,3.1,0.54,1160.7,49.3,2021,london stock exchange
 577,Trane Technologies,Ireland,12.5,0.855,18.2,41.0,2021,trane technologies
 578,Wuliangye Yibin,China,6.8,2.8,14.7,155.8,2021,wuliangye yibin
 579,SVB Financial Group,United States,4.0,1.2,115.5,28.0,2021,svb financial group
@@ -10100,67 +10100,67 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 1979,Gold Fields,South Africa,3.9,0.718,7.5,8.9,2021,gold fields
 1979,Paycom,United States,0.841,0.143,2.6,24.0,2021,paycom
 1,Berkshire Hathaway,United States,276.09,89.8,958.78,741.48,2022,berkshire hathaway
-2,ICBC,China,208.13,54.03,5.0,214.43,2022,icbc
-3,Saudi Arabian Oil Company (Saudi Aramco),Saudi Arabia,400.38,105.36,576.04,2.0,2022,saudi arabian oil company (saudi aramco)
-4,JPMorgan Chase,United States,124.54,42.12,3.0,374.45,2022,jpmorgan chase
-5,China Construction Bank,China,202.07,46.89,4.0,181.32,2022,china construction bank
-6,Amazon,United States,469.82,33.36,420.55,1.0,2022,amazon
-7,Apple,United States,378.7,100.56,381.19,2.0,2022,apple
-8,Agricultural Bank of China,China,181.42,37.38,4.0,133.38,2022,agricultural bank of china
-9,Bank of America,United States,96.83,31.0,3.0,303.1,2022,bank of america
+2,ICBC,China,208.13,54.03,5518.51,214.43,2022,icbc
+3,Saudi Arabian Oil Company (Saudi Aramco),Saudi Arabia,400.38,105.36,576.04,2292.08,2022,saudi arabian oil company (saudi aramco)
+4,JPMorgan Chase,United States,124.54,42.12,3954.69,374.45,2022,jpmorgan chase
+5,China Construction Bank,China,202.07,46.89,4746.95,181.32,2022,china construction bank
+6,Amazon,United States,469.82,33.36,420.55,1468.4,2022,amazon
+7,Apple,United States,378.7,100.56,381.19,2640.32,2022,apple
+8,Agricultural Bank of China,China,181.42,37.38,4561.05,133.38,2022,agricultural bank of china
+9,Bank of America,United States,96.83,31.0,3238.22,303.1,2022,bank of america
 10,Toyota Motor,Japan,281.75,28.15,552.46,237.73,2022,toyota motor
-11,Alphabet,United States,257.49,76.03,359.27,1.0,2022,alphabet
-12,Microsoft,United States,184.9,71.19,340.39,2.0,2022,microsoft
-13,Bank of China,China,152.43,33.57,4.0,117.83,2022,bank of china
+11,Alphabet,United States,257.49,76.03,359.27,1581.72,2022,alphabet
+12,Microsoft,United States,184.9,71.19,340.39,2054.37,2022,microsoft
+13,Bank of China,China,152.43,33.57,4192.84,117.83,2022,bank of china
 14,Samsung Group,South Korea,244.16,34.27,358.88,367.26,2022,samsung group
 15,ExxonMobil,United States,280.51,23.04,338.92,359.73,2022,exxonmobil
 16,Shell,United Kingdom,261.76,20.27,404.38,211.1,2022,shell
-17,Ping An Insurance Group,China,181.37,15.74,1.0,121.69,2022,ping an insurance group
-18,Wells Fargo,United States,84.12,20.58,1.0,176.77,2022,wells fargo
+17,Ping An Insurance Group,China,181.37,15.74,1587.11,121.69,2022,ping an insurance group
+18,Wells Fargo,United States,84.12,20.58,1939.71,176.77,2022,wells fargo
 19,Verizon Communications,United States,134.35,21.52,366.6,218.02,2022,verizon communications
 20,AT&T,United States,163.03,17.33,551.62,141.79,2022,at&t
 21,PetroChina,China,380.31,14.29,392.6,142.3,2022,petrochina
 21,UnitedHealth Group,United States,297.55,17.45,221.24,490.15,2022,unitedhealth group
 23,Walmart,United States,572.75,13.67,244.86,431.64,2022,walmart
-24,China Merchants Bank,China,71.07,18.58,1.0,167.32,2022,china merchants bank
+24,China Merchants Bank,China,71.07,18.58,1451.2,167.32,2022,china merchants bank
 25,Volkswagen Group,Germany,295.73,17.54,638.26,82.4,2022,volkswagen group
 26,Chevron,United States,156.29,15.63,239.53,316.23,2022,chevron
-27,Citigroup,United States,79.94,18.23,2.0,101.48,2022,citigroup
+27,Citigroup,United States,79.94,18.23,2394.11,101.48,2022,citigroup
 28,Tencent Holdings,China,86.86,34.94,252.99,414.28,2022,tencent holdings
 29,Total,France,185.12,16.14,293.46,127.32,2022,total
-30,Postal Savings Bank Of China (PSBC),China,77.61,11.33,1.0,125.53,2022,postal savings bank of china (psbc)
+30,Postal Savings Bank Of China (PSBC),China,77.61,11.33,1975.08,125.53,2022,postal savings bank of china (psbc)
 31,China Mobile,Hong Kong,131.49,17.97,283.37,147.05,2022,china mobile
 32,Comcast,United States,116.39,14.16,275.9,205.72,2022,comcast
 33,Alibaba Group,China,129.76,10.17,276.25,237.78,2022,alibaba group
 34,Meta Platforms,United States,117.93,39.37,165.99,499.86,2022,meta platforms
-35,Allianz,Germany,138.62,7.81,1.0,96.42,2022,allianz
-36,Morgan Stanley,United States,60.22,14.58,1.0,150.95,2022,morgan stanley
-37,Goldman Sachs Group,United States,62.81,18.74,1.0,109.32,2022,goldman sachs group
-38,HSBC Holdings,United Kingdom,59.33,12.58,2.0,135.3,2022,hsbc holdings
+35,Allianz,Germany,138.62,7.81,1324.62,96.42,2022,allianz
+36,Morgan Stanley,United States,60.22,14.58,1222.23,150.95,2022,morgan stanley
+37,Goldman Sachs Group,United States,62.81,18.74,1589.0,109.32,2022,goldman sachs group
+38,HSBC Holdings,United Kingdom,59.33,12.58,2957.94,135.3,2022,hsbc holdings
 39,Johnson & Johnson,United States,94.88,19.83,182.02,477.38,2022,johnson & johnson
-40,BNP Paribas,France,127.42,9.85,2.0,68.76,2022,bnp paribas
+40,BNP Paribas,France,127.42,9.85,2995.89,68.76,2022,bnp paribas
 41,Mercedes-Benz Group,Germany,178.94,27.19,295.48,74.62,2022,mercedes-benz group
 42,CVS Health,United States,291.98,7.91,240.5,133.53,2022,cvs health
 43,Pfizer,United States,81.49,21.98,181.48,271.83,2022,pfizer
 44,Softbank,Japan,96.86,20.87,418.94,71.69,2022,softbank
 45,Sinopec,China,384.82,11.04,292.05,80.81,2022,sinopec
 46,Nestlé,Switzerland,95.25,18.49,152.71,360.01,2022,nestlé
-47,RBC,Canada,45.24,13.0,1.0,147.92,2022,rbc
+47,RBC,Canada,45.24,13.0,1377.94,147.92,2022,rbc
 48,AXA Group,France,145.19,8.39,839.85,65.75,2022,axa group
 49,Gazprom,Russia,117.3,25.44,360.47,63.56,2022,gazprom
 50,BP,United Kingdom,158.01,7.55,287.27,98.38,2022,bp
 51,Intel,United States,79.02,19.87,168.41,190.29,2022,intel
 52,Nippon Telegraph & Tel,Japan,110.39,10.15,204.46,103.98,2022,nippon telegraph & tel
 53,Reliance Industries,India,86.85,7.81,192.59,228.63,2022,reliance industries
-53,TD Bank Group,Canada,38.51,11.78,1.0,132.99,2022,td bank group
-55,Industrial Bank,China,60.53,12.82,1.0,68.59,2022,industrial bank
+53,TD Bank Group,Canada,38.51,11.78,1398.48,132.99,2022,td bank group
+55,Industrial Bank,China,60.53,12.82,1350.32,68.59,2022,industrial bank
 56,Sony,Japan,89.9,7.99,260.48,108.84,2022,sony
 57,Taiwan Semiconductor,Taiwan,61.47,23.63,139.35,494.6,2022,taiwan semiconductor
-58,Santander,Spain,78.22,9.6,1.0,58.21,2022,santander
-59,Mitsubishi UFJ Financial,Japan,48.28,11.29,3.0,75.75,2022,mitsubishi ufj financial
+58,Santander,Spain,78.22,9.6,1814.78,58.21,2022,santander
+59,Mitsubishi UFJ Financial,Japan,48.28,11.29,3176.37,75.75,2022,mitsubishi ufj financial
 59,Ford Motor,United States,136.34,17.94,257.04,60.8,2022,ford motor
 59,LVMH Moët Hennessy Louis Vuitton,France,75.9,14.23,142.5,346.8,2022,lvmh moët hennessy louis vuitton
-62,Bank of Communications,China,76.0,12.98,1.0,52.82,2022,bank of communications
+62,Bank of Communications,China,76.0,12.98,1830.4,52.82,2022,bank of communications
 63,Procter & Gamble,United States,79.62,14.6,120.22,386.53,2022,procter & gamble
 64,BMW Group,Germany,131.48,14.64,277.28,55.98,2022,bmw group
 65,Petrobras,Brazil,83.89,19.77,174.68,83.98,2022,petrobras
@@ -10194,18 +10194,18 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 93,Anheuser-Busch InBev,Belgium,54.33,4.66,219.37,118.52,2022,anheuser-busch inbev
 94,Walt Disney,United States,72.98,3.08,203.31,215.33,2022,walt disney
 95,Chubb,Switzerland,40.95,8.54,181.75,87.31,2022,chubb
-96,CITIC,Hong Kong,91.21,9.03,1.0,31.96,2022,citic
-96,Lloyds Banking Group,United Kingdom,58.48,7.36,1.0,41.34,2022,lloyds banking group
+96,CITIC,Hong Kong,91.21,9.03,1370.59,31.96,2022,citic
+96,Lloyds Banking Group,United Kingdom,58.48,7.36,1200.75,41.34,2022,lloyds banking group
 98,IBM,United States,67.25,5.52,133.28,124.33,2022,ibm
 99,Sanofi,France,44.63,7.36,136.74,136.86,2022,sanofi
 100,United Parcel Service,United States,97.2,12.89,69.41,163.03,2022,united parcel service
 101,British American Tobacco,United Kingdom,35.32,9.34,186.05,97.49,2022,british american tobacco
 102,Honda Motor,Japan,130.16,7.24,193.22,44.99,2022,honda motor
-102,UBS,Switzerland,35.22,7.45,1.0,56.17,2022,ubs
+102,UBS,Switzerland,35.22,7.45,1117.18,56.17,2022,ubs
 104,Mitsubishi,Japan,146.94,5.9,178.13,50.87,2022,mitsubishi
 105,State Bank of India,India,54.42,4.32,696.51,58.39,2022,state bank of india
 106,Commonwealth Bank,Australia,21.85,8.39,835.97,130.34,2022,commonwealth bank
-107,Shanghai Pudong Development,China,54.77,8.47,1.0,36.6,2022,shanghai pudong development
+107,Shanghai Pudong Development,China,54.77,8.47,1247.94,36.6,2022,shanghai pudong development
 108,Raytheon Technologies,United States,64.36,3.86,161.4,149.76,2022,raytheon technologies
 109,Enel,Italy,99.41,3.77,235.33,65.84,2022,enel
 110,Eni,Italy,90.5,7.24,156.99,52.28,2022,eni
@@ -10218,16 +10218,16 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 117,Vale,Brazil,54.4,22.47,89.61,82.03,2022,vale
 118,EDF,France,99.83,6.04,410.49,35.09,2022,edf
 119,Thermo Fisher Scientific,United States,39.21,7.72,95.12,219.71,2022,thermo fisher scientific
-120,Credit Agricole,France,73.61,6.49,2.0,31.42,2022,credit agricole
+120,Credit Agricole,France,73.61,6.49,2358.5,31.42,2022,credit agricole
 121,AIRBUS,Netherlands,61.64,4.98,129.16,88.6,2022,airbus
 122,Costco Wholesale,United States,210.22,5.51,63.08,253.39,2022,costco wholesale
 123,Hon Hai Precision,Taiwan,214.6,4.99,141.28,49.04,2022,hon hai precision
 124,Unilever,United Kingdom,62.0,7.15,85.4,116.16,2022,unilever
 125,Charter Communications,United States,51.68,4.65,143.39,97.92,2022,charter communications
-126,Sumitomo Mitsui Financial,Japan,35.5,6.4,2.0,42.33,2022,sumitomo mitsui financial
+126,Sumitomo Mitsui Financial,Japan,35.5,6.4,2176.62,42.33,2022,sumitomo mitsui financial
 127,ConocoPhillips,United States,46.06,8.08,90.66,124.43,2022,conocophillips
 128,GlaxoSmithKline,United Kingdom,46.92,6.03,107.14,112.09,2022,glaxosmithkline
-129,Intesa Sanpaolo,Italy,47.84,4.95,1.0,41.42,2022,intesa sanpaolo
+129,Intesa Sanpaolo,Italy,47.84,4.95,1215.67,41.42,2022,intesa sanpaolo
 130,Manulife,Canada,47.17,5.67,691.18,39.76,2022,manulife
 131,US Bancorp,United States,23.12,7.21,586.52,75.48,2022,us bancorp
 132,BASF,Germany,92.9,6.53,102.41,51.78,2022,basf
@@ -10246,15 +10246,15 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 145,KDDI,Japan,49.17,5.98,94.14,74.12,2022,kddi
 146,Hyundai Motor,South Korea,102.7,4.32,196.8,37.61,2022,hyundai motor
 147,Visa,United States,25.48,12.84,81.93,436.49,2022,visa
-148,China Citic Bank,China,56.99,8.63,1.0,25.26,2022,china citic bank
+148,China Citic Bank,China,56.99,8.63,1261.96,25.26,2022,china citic bank
 149,Target,United States,106.0,6.95,53.81,111.76,2022,target
-150,Tesla,United States,53.82,5.52,62.13,1.0,2022,tesla
+150,Tesla,United States,53.82,5.52,62.13,1038.73,2022,tesla
 151,BBVA-Banco Bilbao Vizcaya,Spain,41.98,5.04,753.83,35.28,2022,bbva-banco bilbao vizcaya
 152,Deere & Company,United States,44.45,5.64,79.61,123.81,2022,deere & company
 153,HDFC Bank,India,22.51,5.11,280.16,98.28,2022,hdfc bank
-154,Barclays,United Kingdom,30.17,8.77,1.0,31.55,2022,barclays
+154,Barclays,United Kingdom,30.17,8.77,1874.94,31.55,2022,barclays
 155,Munich Re,Germany,84.88,3.47,358.97,35.48,2022,munich re
-156,Japan Post Holdings,Japan,103.58,3.93,2.0,26.56,2022,japan post holdings
+156,Japan Post Holdings,Japan,103.58,3.93,2614.33,26.56,2022,japan post holdings
 156,Walgreens,United States,135.95,6.29,92.68,39.34,2022,walgreens
 158,Danaher,United States,30.28,6.46,83.39,189.4,2022,danaher
 159,Generali Group,Italy,102.13,3.37,664.52,31.36,2022,generali group
@@ -10281,9 +10281,9 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 180,Anglo American,United Kingdom,41.52,8.54,65.98,59.44,2022,anglo american
 181,Banco Bradesco,Brazil,28.33,4.07,296.89,43.16,2022,banco bradesco
 182,Accenture,Ireland,56.7,6.39,44.32,196.86,2022,accenture
-183,ING Group,Netherlands,21.49,5.65,1.0,39.03,2022,ing group
+183,ING Group,Netherlands,21.49,5.65,1081.81,39.03,2022,ing group
 184,Honeywell International,United States,34.39,5.54,64.47,130.67,2022,honeywell international
-185,Mizuho Financial,Japan,26.76,5.42,1.0,31.38,2022,mizuho financial
+185,Mizuho Financial,Japan,26.76,5.42,1957.58,31.38,2022,mizuho financial
 186,Linde,United Kingdom,30.79,3.83,81.61,157.26,2022,linde
 187,ArcelorMittal,Luxembourg,76.65,14.99,90.51,28.98,2022,arcelormittal
 188,Canadian Imperial Bank,Canada,18.66,5.33,677.51,51.21,2022,canadian imperial bank
@@ -10322,13 +10322,13 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 221,Mondelez International,United States,28.72,4.3,67.09,89.98,2022,mondelez international
 222,McDonald's,United States,23.22,7.55,53.85,185.03,2022,mcdonald's
 223,General Electric,United States,74.08,1.17,198.87,98.13,2022,general electric
-224,Société Générale,France,35.57,5.97,1.0,19.37,2022,société générale
+224,Société Générale,France,35.57,5.97,1665.37,19.37,2022,société générale
 225,Schneider Electric,France,34.16,3.79,62.03,85.36,2022,schneider electric
 226,3M,United States,35.35,5.92,47.07,84.9,2022,3m
 227,Aflac,United States,22.11,4.33,164.55,41.15,2022,aflac
 228,Oil & Natural Gas,India,66.28,6.0,75.51,28.62,2022,oil & natural gas
 229,Southern Company,United States,23.23,2.41,127.53,80.48,2022,southern company
-230,Deutsche Bank,Germany,36.7,2.66,1.0,24.54,2022,deutsche bank
+230,Deutsche Bank,Germany,36.7,2.66,1505.64,24.54,2022,deutsche bank
 231,PTT,Thailand,70.55,3.38,92.14,31.34,2022,ptt
 232,CK Hutchison,Hong Kong,36.13,4.31,155.65,27.91,2022,ck hutchison
 233,Canadian Natural Resources,Canada,23.97,6.11,60.69,74.27,2022,canadian natural resources
@@ -10336,7 +10336,7 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 235,Northrop Grumman,United States,35.67,7.0,42.58,69.84,2022,northrop grumman
 236,Archer Daniels Midland,United States,85.26,2.71,56.14,51.85,2022,archer daniels midland
 237,Marathon Petroleum,United States,119.78,1.72,85.37,48.64,2022,marathon petroleum
-238,China Minsheng Bank,China,50.08,4.8,1.0,16.74,2022,china minsheng bank
+238,China Minsheng Bank,China,50.08,4.8,1090.92,16.74,2022,china minsheng bank
 239,Legal & General Group,United Kingdom,62.51,2.79,779.43,19.63,2022,legal & general group
 240,Netflix,United States,30.4,5.01,45.33,95.68,2022,netflix
 241,Progressive,United States,48.07,2.18,68.91,63.37,2022,progressive
@@ -10344,7 +10344,7 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 243,Cosco Shipping,China,51.77,13.85,64.91,25.8,2022,cosco shipping
 244,DBS,Singapore,12.4,4.98,509.07,63.03,2022,dbs
 245,China Communications Construction,China,108.41,3.03,222.7,19.1,2022,china communications construction
-246,NatWest Group,United Kingdom,17.86,4.41,1.0,30.22,2022,natwest group
+246,NatWest Group,United Kingdom,17.86,4.41,1059.17,30.22,2022,natwest group
 247,Exelon,United States,39.27,1.71,133.01,47.68,2022,exelon
 247,Humana,United States,84.09,2.93,44.75,56.34,2022,humana
 249,General Dynamics,United States,38.47,3.26,50.07,66.42,2022,general dynamics
@@ -10395,7 +10395,7 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 294,Ecopetrol,Colombia,23.43,4.45,60.01,36.07,2022,ecopetrol
 295,LyondellBasell Industries,United Kingdom,46.15,5.6,36.74,34.94,2022,lyondellbasell industries
 296,Contemporary Amperex Technology,China,20.14,2.47,48.27,148.42,2022,contemporary amperex technology
-297,UniCredit,Italy,27.79,1.78,1.0,21.62,2022,unicredit
+297,UniCredit,Italy,27.79,1.78,1042.44,21.62,2022,unicredit
 298,AmerisourceBergen,United States,221.1,1.61,57.58,33.25,2022,amerisourcebergen
 299,EssilorLuxottica,France,23.43,1.73,67.58,79.45,2022,essilorluxottica
 300,Inditex,Spain,32.57,3.81,32.45,68.15,2022,inditex
@@ -10434,7 +10434,7 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 333,Couche Tard,Canada,58.66,2.77,28.83,46.65,2022,couche tard
 334,Huaxia Bank,China,26.38,3.59,549.24,13.28,2022,huaxia bank
 334,NN Group,Netherlands,22.38,3.8,285.02,15.72,2022,nn group
-336,Fannie Mae,United States,100.33,22.18,4.0,0.88,2022,fannie mae
+336,Fannie Mae,United States,100.33,22.18,4229.9,0.88,2022,fannie mae
 337,Fresenius,Germany,44.26,2.15,81.83,20.43,2022,fresenius
 338,Marsh & McLennan,United States,20.33,3.23,33.69,85.88,2022,marsh & mclennan
 339,Ameriprise Financial,United States,13.89,2.76,175.98,30.97,2022,ameriprise financial
@@ -10459,7 +10459,7 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 358,Dollar General,United States,34.22,2.4,29.06,56.92,2022,dollar general
 359,Kraft Heinz Company,United States,26.04,1.01,93.39,52.89,2022,kraft heinz company
 360,Wilmar International,Singapore,65.84,1.89,58.72,20.86,2022,wilmar international
-361,Freddie Mac,United States,62.24,12.11,3.0,0.488,2022,freddie mac
+361,Freddie Mac,United States,62.24,12.11,3025.59,0.488,2022,freddie mac
 362,Hewlett Packard Enterprise,United States,27.86,3.72,57.87,20.48,2022,hewlett packard enterprise
 363,Japan Tobacco,Japan,21.16,3.08,50.14,30.53,2022,japan tobacco
 364,Poste Italiane,Italy,37.48,1.87,323.79,13.6,2022,poste italiane
@@ -10597,7 +10597,7 @@ rank,name,country,sales,profit,assets,market_value,year,name_lower
 496,Shaanxi Coal Industry,China,22.28,2.71,26.6,24.76,2022,shaanxi coal industry
 497,Lenovo Group,Hong Kong,70.56,1.88,45.65,11.89,2022,lenovo group
 498,Fast Retailing,Japan,19.27,1.89,22.93,51.27,2022,fast retailing
-499,London Stock Exchange,United Kingdom,9.27,0.839,1.0,52.66,2022,london stock exchange
+499,London Stock Exchange,United Kingdom,9.27,0.839,1066.1,52.66,2022,london stock exchange
 500,Vonovia,Germany,6.55,3.12,120.91,32.71,2022,vonovia
 501,Aviva,United Kingdom,45.13,0.572,465.18,21.03,2022,aviva
 502,Sherwin-Williams,United States,19.95,1.86,20.67,64.22,2022,sherwin-williams
