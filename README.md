@@ -1,1 +1,1 @@
-# Forbes-NYSE-Company-Analysis---DWBI-Project
+# Forbes-NYSE-Company-Analysis
